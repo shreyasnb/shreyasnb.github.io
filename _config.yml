@@ -1,33 +1,31 @@
 # Site settings
-title: Ethan Pickering
-email: pickering@mit.edu
-description: Academic webpage of Ethan Pickering
+title: Shreyas N B
+email: shreyasnb@iitb.ac.in
+description: Academic webpage of Shreyas Bharadwaj
 baseurl: ""
 url: ""
-affiliation: I am part of the <a href="http://meche.mit.edu/" target="_blank">Mechanical Engineering Department</a> at the Massachusetts Institute of Technology
+affiliation: I am a student in the <a href="http://aero.iitb.ac.in/" target="_blank">Aerospace Engineering Department</a> at the Indian Institute of Technology Bombay.
 
 # Google analytics ID
-google_analytics: UA-176412042-1
+# google_analytics: UA-176412042-1
 
 # Location info. (shown in footer)
 location: >
-  Coordinates: <br/>
-  Building 5 <br/>
-  Massachusetts Institute of Technology <br/>
-  77 Massachusetts Ave<br/>
-  Cambridge, MA 02139<br/>
+  Indian Institute of Technology Bombay<br/>
+  Main Gate Rd<br/>
+  Powai, MH 400076<br/>
 
 # Contact info. (shown in footer)
 contact: >
-    Contact Ethan via email: <a href="mailto:pickering@mit.edu" target="_blank">pickering@mit.edu</a> <br/>
-    <br/><a href="/aboutwebsite.html">Use this webpage as a template for your own!</a>
+    Contact me via email: <a href="mailto:snb.iitb@gmail.com" target="_blank">snb.iitb@gmail.com</a> <br/>
+    <br/><a href="https://github.com/shreyasnb/shreyasnb.github.io">Use this webpage as a template for your own!</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
-  - name: publications
-  - name: talks
-  - name: service
+  - name: research
+  - name: blurbs
+  - name: cv
 # - name: research
 # - name: software
 # - name: team
