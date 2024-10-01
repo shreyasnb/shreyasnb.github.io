@@ -15,7 +15,7 @@ Hi, I'm Shreyas. I am currently an undergraduate at the <a href="https://www.aer
 
 My research interests include geometric mechanics, differential geometry, geometric integrators, adaptive control, nonlinear dynamics and control, control theory, robotics and applied mathematics. I'm also a Teaching Assistant (TA) for the course <a href="https://www.sc.iitb.ac.in/courses.html#639">SC 639</a>, running this semester.
 
-## My Research Interests
+## Research Interests
 
 ### Geometric Mechanics and Differential Geometry
 
