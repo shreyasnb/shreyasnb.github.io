@@ -17,7 +17,7 @@ My research interests include geometric mechanics, differential geometry, geomet
 
 ## My Research Interests
 
-### Geometric mechanics and Control
+### Geometric Mechanics and Differential Geometry
 
 My recent work under Prof. Banavar and Prof. David centers around mechanical systems, especially nonlinear systems having the dynamics (or spray) evolving on a manifold which has a particular mechanical structure. Feedback linearization is a technique to design feedback controllers for nonlinear systems, in such a way that the constructed feedback control allows for a locally linear system at every time instant. So, my work is about how one can construct feedback linearizable discretizations which preserves the mechanical structure of the system.
 
