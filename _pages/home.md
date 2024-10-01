@@ -24,7 +24,7 @@ My recent work under Prof. Banavar and Prof. David centers around mechanical sys
 <br/>
 
 <div class="row" style="text-align:center">
-  <img width="90%" style="display:inline-block; border-radius: 25px; border:0px solid #FFF;" src="{{ site.url }}{{ site.baseurl }}/images/pubpic/retr.png" type="image/png"/>
+  <img width="90%" style="display:inline-block; border-radius: 25px; border:0px solid #FFF;" src="{{ site.url }}{{ site.baseurl }}/images/pubpic/retr.png" type="image/png"/><br>
   Retraction maps, mechanical systems, feedback linearization | [Springer](https://link.springer.com/chapter/10.1007/978-3-030-62391-3_3)
 </div>
 <br/>
@@ -36,17 +36,17 @@ I've worked in modeling and control of many nonlinear dynamical problems, such a
 <br/>
 
 <div class="row" style="text-align:center">
-  <img width="90%" style="display:inline-block; border-radius: 25px; border:0px solid #FFF;" src="{{ site.url }}{{ site.baseurl }}/images/pubpic/pde-wing.png" type="image/png"/>
+  <img width="90%" style="display:inline-block; border-radius: 25px; border:0px solid #FFF;" src="{{ site.url }}{{ site.baseurl }}/images/pubpic/pde-wing.png" type="image/png"/><br>
   PDE wing model, unsteady aerodynamics | [Aeroelastic Analysis](https://www.researchgate.net/publication/326954168_Aeroelastic_Analysis_of_a_Large_Airborne_Wind_Turbine)
 </div>
 <br/>
 
-On the other hand, biomimicry in aerospace engineering has been the main motivation in the industry due to the natural efficiency found in avians, achieved over years of evolution. My work with Prof. Srikant and Prof. Aditya on a flapping wing mechanism, is a design utilizing mechanically coupled feathering-flapping 2-DoF mechanism. The design is made such that the phase difference between flapping and feathering is $$90^{\circ}$$ and the aerodynamics is mathematically modeled to develop a controller.
+On the other hand, biomimicry in aerospace engineering has been the main motivation in the industry due to the natural efficiency found in avians, achieved over years of evolution. My work with Prof. Srikant and Prof. Aditya on a flapping wing mechanism, is a design utilizing mechanically coupled feathering-flapping 2-DoF mechanism. The design is made such that the phase difference between flapping and feathering is 90 degrees, and the aerodynamics is mathematically modeled to develop a controller.
 
 <br/>
 
 <div class="row" style="text-align:center">
-  <img width="90%" style="display:inline-block; border-radius: 25px; border:0px solid #FFF;" src="{{ site.url }}{{ site.baseurl }}/images/pubpic/fwm.png" type="image/png"/>
+  <img width="90%" style="display:inline-block; border-radius: 25px; border:0px solid #FFF;" src="{{ site.url }}{{ site.baseurl }}/images/pubpic/fwm.png" type="image/png"/><br>
   Flapping wing, 2-DoF, aerodynamic models | Self
 </div>
 <br/>
