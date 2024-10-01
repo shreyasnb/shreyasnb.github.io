@@ -9,7 +9,7 @@ permalink: /research/
 
 <div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/droplets_in_water.jpeg" class="img-responsive" width="20%" style="float: left; border-radius:10px" />
-  <h4>Feedback Linearizable Discretizations for Second-Order Mechanical Systems with Retraction Maps</h4>
+  <h4>Feedback Linearizable Discretizations for Mechanical Systems with Retraction Maps</h4>
 Mechanical systems, especially nonlinear systems have the dynamics (or spray) evolving on a manifold which has a particular mechanical structure. Feedback linearization is a technique to design feedback controllers for nonlinear systems, in such a way that the constructed feedback control allows for a locally linear system at every time instant. So, the question is now about how one can construct a feedback linearizable discretization which preserves the mechanical structure of the system.
   <ul style="overflow: hidden">
   </ul>
@@ -18,7 +18,7 @@ Mechanical systems, especially nonlinear systems have the dynamics (or spray) ev
 
 <div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/microcapsules.jpg" class="img-responsive" width="20%" style="float: left; border-radius:10px" />
-  <h4>Nonlinear Infinite-Dimensional Modeling and Control of a Two Degree-of-Freedom Flexible Wing</h4>
+  <h4>Nonlinear Infinite-Dimensional Modeling and Control of a Two DoF Flexible Wing</h4>
 A flexible wing can be modeled in many different ways, and for different applications. The aeroelastic effects create many interesting phenomena, especially flutter, which must be considered in control design. If one assumes a high aspect-ratio wing, bending and twisting are the two relevant degrees of freedom which can be considered in the derivation of the dynamic equations in the form of partial differential equations.
 
 <!--We analyzed the stability of a capsule in large-amplitude oscillatory extensional (LAOE) flow, as often used to study the rheology and dynamics of suspensions. Such a flow is typically established in a cross-slot configuration, with the particle (or particles) of interest observed in the stagnation region. However, controlling this configuration is challenging because the flow is unstable. We quantify such an instability for spherical elastic capsules suspended near the stagnation point using a non-modal global Floquet analysis, which is formulated to include full coupling of the capsule-viscous-flow dynamics. The flow is shown to be transiently, though not asymptotically, unstable. For each case considered, two predominant transient instabilities are identified: intra-period growth for translational capsule perturbations and period-to-period growth for certain capsule distortions. The amplitude of the intra-period instability depends linearly on the flow strength and oscillation period, and the period-to-period growth saturates over several periods, commensurate with the asymptotic stability of the flow.-->
