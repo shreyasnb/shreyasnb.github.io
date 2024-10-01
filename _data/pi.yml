@@ -1,22 +1,22 @@
 - name: Shreyas N B
   photo: shreyas.png
-  info: AI-Assisted Genetic Design Team Lead at Bayer, Lecturer at MIT
+  info: Senior Undergraduate, Indian Institute of Technology Bombay
   email: shreyasnb@iitb.ac.in
   github: https://github.com/shreyasnb
   # researchgate: https://www.researchgate.net/profile/Ethan_Pickering
   scholar: https://scholar.google.com/citations?user=F8L8WeMAAAAJ&hl=en
   cv: https://github.com/shreyasnb/shreyasnb1.github.io/blob/main/CV.pdf
   number_educ: 3
-  education1: (2022-  ) AI-Assisted Genetic Design Team Lead, Bayer Crop Sciences
-  education2: (2023-  ) Lecturer in Mechanical Engineering, MIT
-  education3: (2021-2022) Postdoctoral Scholar in Mechanical Engineering, MIT (with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a>)
-  education4: (2016-2021) Ph.D. in Mechanical Engineering, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
-  education5: (2018) M.S. in Mechanical Engineering, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
-  education6: (2016) M.S. Mechanical Engineering, Case Western Reserve University (with <a href="https://engineering.dartmouth.edu/people/faculty/alexis-abramson" target="_blank">Alexis Abramson</a> (now at Dartmouth) and <a href="https://engineering.case.edu/centers/sdle/roger-french" target="_blank">Roger French</a>)
-  education7: (2015) B.S. Mechanical and Aerospace Engineering, Case Western Reserve University
-  education1short: (2021-  ) B.Tech, Aerospace, IITB
-  education2short: (2024-  ) M.Tech, SysCon, IITB
-  education3short: (2024) Summer Intern, ICMAT
+  education1: (2024-  ) M.Tech in Systems and Control (with <a href="https://sites.google.com/view/ravibanavar/home">Professor Ravi Banavar</a>, IIT Bombay and <a href="https://www.cyrusmostajeran.com/">Professor Cyrus Mostajeran</a>, NTU Singapore), IIT Bombay
+  education2: (2021-  ) B.Tech in Aerospace Engineering, IIT Bombay
+  # education3: (2021-2022) Postdoctoral Scholar in Mechanical Engineering, MIT (with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a>)
+  # education4: (2016-2021) Ph.D. in Mechanical Engineering, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
+  # education5: (2018) M.S. in Mechanical Engineering, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
+  # education6: (2016) M.S. Mechanical Engineering, Case Western Reserve University (with <a href="https://engineering.dartmouth.edu/people/faculty/alexis-abramson" target="_blank">Alexis Abramson</a> (now at Dartmouth) and <a href="https://engineering.case.edu/centers/sdle/roger-french" target="_blank">Roger French</a>)
+  # education7: (2015) B.S. Mechanical and Aerospace Engineering, Case Western Reserve University
+  education1short: (2024-  ) M.Tech, SysCon, IITB
+  education2short: (2021-  ) B.Tech, Aerospace, IITB 
+  education3short: (2024) Research Intern, ICMAT
   # education4short: (2016-2021) Ph.D. ME, Caltech 
   # education5short: (2018) M.S. ME, Caltech 
   # education6short: (2016) M.S. ME, CWRU 

@@ -11,12 +11,14 @@ code {padding: 6px 8px; font-size: 90%;}
 
 # Welcome!
 
-Hi, I'm Shreyas. I am currently an undergraduate at the <a href="https://www.aero.iitb.ac.in/home/">Department of Aerospace Engineering</a>,Indian Institute of Technology, Bombay. I'm also pursuing my masters through the IDDDP Programme in <a href="https://www.sc.iitb.ac.in/">Systems and Controls Engineering</a>.
+Hi, I'm Shreyas. I am currently an undergraduate at the <a href="https://www.aero.iitb.ac.in/home/">Department of Aerospace Engineering</a>, Indian Institute of Technology, Bombay. I'm also pursuing my masters through <a href="https://www.sc.iitb.ac.in/idddpCourseWork.html">IDDDP</a> in the <a href="https://www.sc.iitb.ac.in/">Department of Systems and Controls Engineering</a>.
+
+My research interests include geometric mechanics, differential geometry, geometric integrators, adaptive control, nonlinear dynamics and control, control theory, robotics and applied mathematics. I'm also a Teaching Assistant (TA) for the course <a href="https://www.sc.iitb.ac.in/courses.html#639">SC 639</a>, running this semester.
 
 
 ### Geometric mechanics and control
 
-Mechanical systems, especially nonlinear systems have the dynamics (or spray) evolving on a manifold which has a particular mechanical structure. Feedback linearization is a technique to design feedback controllers for nonlinear systems, in such a way that the constructed feedback control allows for a locally linear system at every time instant. So, the question is now about how one can construct a feedback linearizable discretization which preserves the mechanical structure of the system.
+My recent work under Prof. Banavar and Prof. David centers around mechanical systems, especially nonlinear systems having the dynamics (or spray) evolving on a manifold which has a particular mechanical structure. Feedback linearization is a technique to design feedback controllers for nonlinear systems, in such a way that the constructed feedback control allows for a locally linear system at every time instant. So, my work is about how one can construct feedback linearizable discretizations which preserves the mechanical structure of the system.
 
 <br/>
 
