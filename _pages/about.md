@@ -21,6 +21,7 @@ permalink: /about/
   {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
+  #### Education
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -77,11 +78,11 @@ permalink: /about/
 
 {% endfor %}
 
-## Sketch
+<!-- ## Sketch
 
-Dr. Ethan Pickering investigates chaotic systems of engineering interest that exhibit rare and extreme events. He is currently a postdoctoral associate in Mechanical Engineering at the Massachusetts Institute of Technology, working with Themis Sapsis and collaborating with numerous institutions that cover state of the art computational, experimental, and theoretical abilities.
+Dr. Ethan Pickering investigates chaotic systems of engineering interest that exhibit rare and extreme events. He is currently a postdoctoral associate in Mechanical Engineering at the Massachusetts Institute of Technology, working with Themis Sapsis and collaborating with numerous institutions that cover state of the art computational, experimental, and theoretical abilities. -->
 
-{% if site.data.awards %}
+<!-- {% if site.data.awards %}
 ## Awards
 
 {% for award in site.data.awards %}
@@ -97,18 +98,15 @@ Dr. Ethan Pickering investigates chaotic systems of engineering interest that ex
 * {{ grant.name }}
 {% endfor %}
 
-{% endif %}
+{% endif %} -->
 
-## Collaborators
+## Guides
 
-* <a href="http://colonius.caltech.edu/" target="_blank">Professor Tim Colonius (Department of Mechanical and Civil Engineering, Caltech)</a>
-* <a href="https://www.imperial.ac.uk/people/g.rigas" target="_blank">Professor Georgios Rigas (Department of Aeronautics, Imperial College London)</a>
-* <a href="http://flowphysics.ucsd.edu/" target="_blank">Professor Oliver Schmidt (Department of Mechanical and Aerospace Engineering, UC San Diego)</a>
-* <a href="http://atowne.com/" target="_blank">Professor Aaron Towne (Department of Mechanical Engineering, University of Michigan)</a>
-* <a href="https://scholar.google.fr/citations?user=X7P6FUEAAAAJ&hl=fr" target="_blank"> Dr. Peter Jordan (Institut Pprime, CNRS, Universit ́e de Poitiers )</a>
-* <a href="http://denissipp.free.fr/" target="_blank"> Dr. Denis Sipp (Research Director at ONERA)</a>
-* <a href="http://www.ita.br/~cavalieri" target="_blank"> Professor Andre Cavalieri (Engenharia Aeronáutica, Instituto Tecnológico de Aeronáutica)</a>
-* <a href="https://www.cascadetechnologies.com/" target="_blank"> Dr. Guillaume Brès (Director of Operations and Senior Research Scientist, CASCADE Technologies)</a>
+* <a href="https://sites.google.com/view/ravibanavar/home">Professor Ravi Banavar (Department of Systems and Controls Engineering, Indian Institute of Technology Bombay)</a>
+* <a href="https://scholar.google.co.in/citations?user=4d54VyUAAAAJ&hl=en">Professor Aditya Paranjape (Department of Mechanical and Aerospace Engineering, Monash University)</a>
+* <a href="https://scholar.google.com/citations?user=Y59euk8AAAAJ&hl=en">Professor David Martin de Diego (Geometric Mechanics and Controls Group, Instituto de Ciencias Matematicas, Madrid)</a>
+* <a href="https://sites.google.com/view/viveknatarajan" target="_blank">Professor Vivek Natarajan (Department of Systems and Controls Engineering, Indian Institute of Technology Bombay)</a>
+* <a href="https://sites.google.com/iitb.ac.in/srikantsukumar"> Professor Srikant Sukumar (Department of Systems and Controls Engineering, Indian Institute of Technology Bombay)</a>
 
 
 
