@@ -21,7 +21,8 @@ permalink: /about/
   {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
-  #### Education
+  
+  <h4>Education</h4>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
