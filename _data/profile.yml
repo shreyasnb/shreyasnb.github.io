@@ -2,10 +2,10 @@ primary_name: "Shreyas"
 secondary_name: "Bharadwaj"
 navbar_name: "Shreyas Bharadwaj"
 
-positions:
-- logo: /assets/images/badges/iitblogo.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+# positions:
+# - logo: /assets/images/badges/iitblogo.png  # Logo is optional
+#   name: Position 1 with logo
+# - name: Position 2 without logo
 
 
 email: "shreyasnb@iitb.ac.in"
