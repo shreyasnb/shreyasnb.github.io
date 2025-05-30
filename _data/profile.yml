@@ -30,13 +30,13 @@ short_bio: >-
     as well as being common in domestic longhair and domestic shorthair cats.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/snb.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Indian Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/iitblogo.png
   position: >- 
     Center for Systems and Controls <br/>
     Masters Student
@@ -48,7 +48,7 @@ education:
 
 experience:
 - name: ICMAT
-  logo: /assets/images/badges/logo-icmat.jpg
+  logo: /assets/images/badges/icmatlogo.png
   position: Research Intern
   date: Sep. 2019 - Jul. 2021
 
