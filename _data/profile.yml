@@ -32,7 +32,7 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/snb.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  At Miraflores de la Sierra, Madrid, Spain. <br/>
 
 education:
 - name: Indian Institute of Technology
@@ -48,9 +48,9 @@ education:
 
 experience:
 - name: ICMAT
-  logo: /assets/images/badges/icmatlogo.png
+  logo: /assets/images/badges/icmat-logo.png
   position: Research Intern
-  date: Sep. 2019 - Jul. 2021
+  date: May 2024 - Jul. 2024
 
 # awards:
 # - name: Award Name 2
