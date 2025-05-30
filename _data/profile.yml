@@ -2,8 +2,8 @@ primary_name: "Shreyas"
 secondary_name: "Bharadwaj"
 navbar_name: "Shreyas Bharadwaj"
 
-# positions:
-# - logo: /assets/images/badges/iitblogo.png  # Logo is optional
+positions:
+- logo: /assets/images/badges/iitblogo.png  # Logo is optional
 #   name: Position 1 with logo
 # - name: Position 2 without logo
 
@@ -22,12 +22,12 @@ orcid: 0009-0005-7083-0733
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hey! I'm Shreyas. I'm a Masters' student (Dual Degree B.Tech. + M.Tech.) at the Center for Systems and Controls,
+    Indian Institute of Technology Bombay, India. I finished my B.Tech. in Aerospace Engineering in April 2025.
+    My research interests include geometric mechanics, dynamical systems, and control theory.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I also love hands-on projects, especially real-life applications involving aerial robotics and control systems. I've recently also started working on optimization on manifolds, and I'm a regular listener of the <a href="https://incontrolpodcast.com">inControl Podcast</a>.
   </p>
 
 portrait_url: /assets/images/photos/snb.jpg
