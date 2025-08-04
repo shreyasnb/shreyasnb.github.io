@@ -7,7 +7,6 @@ images:
 - src: "{{ 'assets/images/etc/miraflores-grp.jpeg' | relative_url }}"
   title: Miraflores de la Sierra, Spain
   desc: XVI International Summer School on Geometric Mechanics and Control
-  link: https://picsum.photos/
 - src: https://picsum.photos/seed/second22/800/800
   title: Photo 2
   desc: Description 2
