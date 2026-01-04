@@ -17,6 +17,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
+site-theme: air
 plugins:
   - jekyll-email-protect
 
